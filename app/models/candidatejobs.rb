@@ -1,0 +1,3 @@
+class Candidatejobs < ApplicationRecord
+
+end

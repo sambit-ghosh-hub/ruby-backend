@@ -1,0 +1,2 @@
+module GetappliedjobsHelper
+end

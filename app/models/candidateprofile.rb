@@ -1,0 +1,3 @@
+class Candidateprofile < ApplicationRecord
+
+end
